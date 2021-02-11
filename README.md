@@ -1,4 +1,4 @@
-# yoScriptTagCheck
+# @benline/shopify/yoScriptTagCheck
 
 
 ```typescript
